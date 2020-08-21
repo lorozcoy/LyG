@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LyG/static/css/main.5f361e03.chunk.css",
+    "main.js": "/LyG/static/js/main.52d07a76.chunk.js",
+    "main.js.map": "/LyG/static/js/main.52d07a76.chunk.js.map",
+    "runtime-main.js": "/LyG/static/js/runtime-main.de75db50.js",
+    "runtime-main.js.map": "/LyG/static/js/runtime-main.de75db50.js.map",
+    "static/js/2.2ebf5461.chunk.js": "/LyG/static/js/2.2ebf5461.chunk.js",
+    "static/js/2.2ebf5461.chunk.js.map": "/LyG/static/js/2.2ebf5461.chunk.js.map",
+    "index.html": "/LyG/index.html",
+    "precache-manifest.e763eb92c2d8b5b59c883a9467d0b8b4.js": "/LyG/precache-manifest.e763eb92c2d8b5b59c883a9467d0b8b4.js",
+    "service-worker.js": "/LyG/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/LyG/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2ebf5461.chunk.js.LICENSE.txt": "/LyG/static/js/2.2ebf5461.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/LyG/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de75db50.js",
+    "static/js/2.2ebf5461.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.52d07a76.chunk.js"
+  ]
+}
